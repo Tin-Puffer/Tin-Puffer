@@ -52,14 +52,14 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tin-Puffer&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1" width="440" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Tin-Puffer&locale=en&mode=daily&theme=blue-green&hide_border=true&border_radius=0&order=3" width="440" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tin-Puffer&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1" width="400" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Tin-Puffer&locale=en&mode=daily&theme=blue-green&hide_border=true&border_radius=0&order=3" width="400" alt="streak graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tin-Puffer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=great-gatsby&hide_border=true&order=2" height="230" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tin-Puffer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=great-gatsby&hide_border=true&order=2" height="210" alt="languages graph"  />
 </div>
 
 ###
