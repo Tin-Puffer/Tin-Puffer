@@ -52,8 +52,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tin-Puffer&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1" height="190" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Tin-Puffer&locale=en&mode=daily&theme=blue-green&hide_border=true&border_radius=0&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tin-Puffer&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1" width="440" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Tin-Puffer&locale=en&mode=daily&theme=blue-green&hide_border=true&border_radius=0&order=3" width="440" alt="streak graph"  />
 </div>
 
 ###
